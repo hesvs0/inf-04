@@ -1,0 +1,15 @@
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.exe.config
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.exe
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.pdb
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.csproj.AssemblyReference.cache
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.csproj.SuggestedBindingRedirects.cache
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.csproj.CoreCompileInputs.cache
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.exe
+E:\ZST\arkusze\kody\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.pdb
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.exe.config
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.exe
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\bin\Debug\styczen-2023-v2-problem-1-notatka.pdb
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.csproj.AssemblyReference.cache
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.csproj.CoreCompileInputs.cache
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.exe
+C:\Users\spike\OneDrive\Desktop\styczen-2023-v2-problem-1-notatka\obj\Debug\styczen-2023-v2-problem-1-notatka.pdb
